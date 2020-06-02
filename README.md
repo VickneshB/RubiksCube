@@ -12,5 +12,7 @@
 	$ python3 main.py
 	```
 	
-VIDEO:
+Click below for VIDEO:
+
+
 [![Watch the video](https://img.youtube.com/vi/7dYNsFPmbRQ/sddefault.jpg)](https://youtu.be/7dYNsFPmbRQ)
