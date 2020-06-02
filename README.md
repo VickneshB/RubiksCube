@@ -13,4 +13,4 @@
 	```
 	
 VIDEO:
-[![Watch the video](http://img.youtube.co/vi/7dYNsFPmbRQ&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=7dYNsFPmbRQ&t)
+[![Watch the video](http://img.youtube.co/vi/7dYNsFPmbRQ/maxresdefault.jpg)](https://youtu.be/7dYNsFPmbRQ)
